@@ -2,6 +2,15 @@
 
 # Open Source Jobs [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+# 开源工作真棒
+
+* 提供工作的开源项目列表。 对于那些想要从事开源工作并获得报酬的人。
+
+# 内容如下
+
+ *   建议一个新的组织
+ *    发布新工作
+
 A list of Open Source projects offering jobs. For those who want to work on open source and get paid.
 
 [![Join us](https://badgen.net/badge/Join%20the%20community%20of%20t9t.io/Get%20in%20touch/green)](https://t9t.io/#contact)
